@@ -97,3 +97,4 @@ from .spectrum import phase_vocoder as phase_vocoder
 from .spectrum import power_to_db as power_to_db
 from .spectrum import reassigned_spectrogram as reassigned_spectrogram
 from .spectrum import stft as stft
+from .streaming import StreamBridge as StreamBridge
